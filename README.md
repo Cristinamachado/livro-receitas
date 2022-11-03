@@ -4,5 +4,5 @@
 
 <ol>
 <li>Frango de Strogonoff</li>
-<li>Pave</li>
+<li>Pavê</li>
 </ol>
