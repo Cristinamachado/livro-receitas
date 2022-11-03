@@ -14,7 +14,7 @@
 <li>1 copo de creme de leite</li>
 <li>batata palha a gosto</li>
 </ul>
-<h4>Modeo de preparo</h4>
+<h4>Modo de preparo</h4>
 <p>Em uma panela, misture o frango, o alho, a maionese, o sal e a pimenta.
 Em uma frigideira grande, derreta a manteiga e doure a cebola.
 Junte o frango temperado até que esteja dourado.
