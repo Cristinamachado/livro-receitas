@@ -2,6 +2,7 @@
 
 <p>Bem vindo ao meu livro de receitas</p>
 
-<ul>
+<ol>
 <li>Frango de Strogonoff</li>
-</ul>
+<li>Pave</li>
+</ol>
