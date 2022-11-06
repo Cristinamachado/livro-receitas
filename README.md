@@ -1,8 +1,8 @@
-<h1>Livro de receitas</h1>
+# Livro de receitas
 
-<p>Bem vindo ao meu livro de receitas</p>
+Bem vindo ao meu livro de receitas
 
-<ol>
-<li>Frango de Strogonoff</li>
-<li>Pavê</li>
-</ol>
+
+1. Frango de Strogonoff
+2.  Pavê
+
